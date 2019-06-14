@@ -38,8 +38,8 @@ int main() {
     ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
     #ifdef DiscoFighter47
         pf("Hello World!\n");
-        //freopen("00_input.txt","r",stdin);
-        //freopen("00_output.txt","w",stdout);
+        freopen("_input.txt","r",stdin);
+        freopen("_output.txt","w",stdout);
     #endif // DiscoFighter47
 
     /*int tc,t;
